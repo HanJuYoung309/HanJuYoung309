@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="![image](https://github.com/HanJuYoung309/HanJuYoung309/assets/73240989/d5a06df7-1c17-4336-8ab6-ea6d5491aab1)?style=flat&logo=spring&logoColor=white"/>
