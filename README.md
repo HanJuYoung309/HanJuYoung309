@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/AWS-1572B6?style=flat&logo=AWS&logoColor=white" />
 </div>
 <center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJuYoung309)](https://github.com/anuraghazra/github-readme-stats)
-	
+	 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJuYoung309)](https://github.com/anuraghazra/github-readme-stats)
 </center>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
