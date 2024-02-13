@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-백엔드 개발자 한주영입니다 :) 편히쉬다가 가세요!
+<center>백엔드 개발자 한주영입니다 :) 편히쉬다가 가세요!</center>
 
 <h2>🖥️👩‍💻Tech Stack</h2>
 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
      
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJuYoung309)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanJuYoung309)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
