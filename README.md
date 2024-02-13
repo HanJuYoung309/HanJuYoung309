@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Spring-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/SpringBoot-E34F26?style=flat&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-1572B6?style=flat&logo=AWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+     
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJuYoung309)](https://github.com/anuraghazra/github-readme-stats)
 </div>
