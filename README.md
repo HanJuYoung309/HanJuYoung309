@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+백엔드 개발자 한주영입니다 :) 편히쉬다가 가세요!
+
 <h2>🖥️👩‍💻Tech Stack</h2>
 
 <div align="center">
