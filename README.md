@@ -1,4 +1,4 @@
-### Hi there 👋
+### JuYoung Han (BE Engineer) 👋
 
 <!--
 **HanJuYoung309/HanJuYoung309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>🖥️👩‍💻Langauage & PlatForm</h1>
+<h1>🖥️👩‍💻Tech Stack</h1>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
