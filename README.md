@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/SpringBoot-E34F26?style=flat&logo=SpringBoot&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-1572B6?style=flat&logo=AWS&logoColor=white" />
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
 
 
