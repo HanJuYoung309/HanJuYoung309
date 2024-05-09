@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<center>백엔드 개발자 한주영입니다 :) 편히쉬다가 가세요!</center>
+<div align="center">백엔드 개발자 한주영입니다 :) 편히쉬다가 가세요!</div>
+
 
 <h2>🖥️👩‍💻Tech Stack</h2>
 
