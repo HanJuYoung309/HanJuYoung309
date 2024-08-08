@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-        <img src="https://img.shields.io/badge/SpringSecurity-#6DB33F?style=for-the-badge&logo=springsecurity-&logoColor=white">
+        <img src="https://img.shields.io/badge/springsecurity-#6DB33F?style=for-the-badge&logo=springsecurity-&logoColor=white">
 	
 </div>
 <br/>
