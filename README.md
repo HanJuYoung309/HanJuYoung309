@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-	 <img src="https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Secuirty-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring Secuirty-#6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
      
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJuYoung309)](https://github.com/anuraghazra/github-readme-stats)
